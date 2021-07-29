@@ -1,0 +1,19 @@
+* {
+    align-content: center;
+    text-align: center;
+    display: center;
+}
+
+body {
+    display: flex;
+    background-color: rgb(240, 240, 240);
+    justify-content: space-between;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+header {
+    background-color: rgb(165, 214, 255);
+    width: 100%;
+}
+
